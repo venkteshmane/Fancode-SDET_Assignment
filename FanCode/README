@@ -1,0 +1,4 @@
+1) For running this project follow the path
+ -> src > test > resources > API_testng_Master.xml
+2) Run the xml file to execute the Test case.
+3) Also thru your terminal or cmd, go to the directory of the project and by using maven commands (mvn test/mvn clean install) it will execute the Test case.
